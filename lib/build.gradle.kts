@@ -2,7 +2,6 @@ plugins {
     java
     jacoco
     application
-    `java-library`
 }
 
 java.toolchain {
